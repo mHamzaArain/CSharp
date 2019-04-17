@@ -1,0 +1,7 @@
+C:\Users\Hamza Arain\source\C#\ElemeataryRowOperation\ElemeataryRowOperation\bin\Release\ElemeataryRowOperation.exe.config
+C:\Users\Hamza Arain\source\C#\ElemeataryRowOperation\ElemeataryRowOperation\bin\Release\ElemeataryRowOperation.exe
+C:\Users\Hamza Arain\source\C#\ElemeataryRowOperation\ElemeataryRowOperation\bin\Release\ElemeataryRowOperation.pdb
+C:\Users\Hamza Arain\source\C#\ElemeataryRowOperation\ElemeataryRowOperation\obj\Release\ElemeataryRowOperation.csprojAssemblyReference.cache
+C:\Users\Hamza Arain\source\C#\ElemeataryRowOperation\ElemeataryRowOperation\obj\Release\ElemeataryRowOperation.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Arain\source\C#\ElemeataryRowOperation\ElemeataryRowOperation\obj\Release\ElemeataryRowOperation.exe
+C:\Users\Hamza Arain\source\C#\ElemeataryRowOperation\ElemeataryRowOperation\obj\Release\ElemeataryRowOperation.pdb

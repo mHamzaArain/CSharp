@@ -1,0 +1,7 @@
+C:\Users\Hamza Arain\source\repos\ReadingWrintingFile\ReadingWrintingFile\bin\Debug\ReadingWrintingFile.exe.config
+C:\Users\Hamza Arain\source\repos\ReadingWrintingFile\ReadingWrintingFile\bin\Debug\ReadingWrintingFile.exe
+C:\Users\Hamza Arain\source\repos\ReadingWrintingFile\ReadingWrintingFile\bin\Debug\ReadingWrintingFile.pdb
+C:\Users\Hamza Arain\source\repos\ReadingWrintingFile\ReadingWrintingFile\obj\Debug\ReadingWrintingFile.csprojAssemblyReference.cache
+C:\Users\Hamza Arain\source\repos\ReadingWrintingFile\ReadingWrintingFile\obj\Debug\ReadingWrintingFile.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Arain\source\repos\ReadingWrintingFile\ReadingWrintingFile\obj\Debug\ReadingWrintingFile.exe
+C:\Users\Hamza Arain\source\repos\ReadingWrintingFile\ReadingWrintingFile\obj\Debug\ReadingWrintingFile.pdb

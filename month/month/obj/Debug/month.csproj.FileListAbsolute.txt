@@ -1,0 +1,7 @@
+C:\Users\Hamza Arain\source\C#\month\month\bin\Debug\month.exe.config
+C:\Users\Hamza Arain\source\C#\month\month\bin\Debug\month.exe
+C:\Users\Hamza Arain\source\C#\month\month\bin\Debug\month.pdb
+C:\Users\Hamza Arain\source\C#\month\month\obj\Debug\month.csprojAssemblyReference.cache
+C:\Users\Hamza Arain\source\C#\month\month\obj\Debug\month.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Arain\source\C#\month\month\obj\Debug\month.exe
+C:\Users\Hamza Arain\source\C#\month\month\obj\Debug\month.pdb

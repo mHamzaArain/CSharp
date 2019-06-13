@@ -10,7 +10,7 @@ namespace Calculator
     {
         class MyCalculator
         {
-            public static void displayMenu()
+            public void displayMenu()
             {
                 bool displayMenu = true;
                 while (displayMenu)
@@ -29,7 +29,11 @@ namespace Calculator
                 Console.WriteLine("4) Division");
                 Console.WriteLine("5) Squaer root");
                 Console.WriteLine("6) Power of x");
+                Console.WriteLine("7) sin(x)");
+                Console.WriteLine("8) cos(x)");
+                Console.WriteLine("9) tan(x)");
                 Console.WriteLine("Press Any keywrod to close Program.... ");
+
                 MyCalculator cls = new MyCalculator();
                 string chosenOption = Console.ReadLine();
 
@@ -65,6 +69,21 @@ namespace Calculator
                         cls.Power();
                         return true;
 
+                    case "7":
+                        Console.Clear();
+                        cls.sin();
+                        return true;
+
+                    case "8":
+                        Console.Clear();
+                        cls.cos();
+                        return true;
+
+                    case "9":
+                        Console.Clear();
+                        cls.tan();
+                        return true;
+
                     default:
                         return false;
 
@@ -93,7 +112,7 @@ namespace Calculator
                 float min = 0;
                 foreach (string item in splitedMinus)
                 {
-                    min -=  Int32.Parse(item);
+                    min -= Int32.Parse(item);
                 }
                 Console.WriteLine(String.Format("Substacted value: {0}", min));
                 Console.ReadLine();
@@ -119,7 +138,7 @@ namespace Calculator
                 float divide = 1;
                 foreach (string item in splitedDivider)
                 {
-                    divide =  Int32.Parse(item) / divide;
+                    divide = Int32.Parse(item) / divide;
                 }
                 Console.WriteLine(String.Format("Total sum: {0}", divide));
                 Console.ReadLine();
@@ -145,7 +164,29 @@ namespace Calculator
                 Console.WriteLine(String.Format("Power: {0}", result));
                 Console.ReadLine();
             }
-            
+            public void sin()
+            {
+                Console.Write("sin(x): ");
+                double x = double.Parse(Console.ReadLine());
+                double y = Math.Sin(x);
+                Console.WriteLine(String.Format("sin({0}) = {1}",x,y));
+            }
+            public void cos()
+            {
+                Console.Write("cos(x): ");
+                double x = double.Parse(Console.ReadLine());
+                double y = Math.Cos(x);
+                Console.WriteLine(String.Format("cos({0}) = {1}", x, y));
+            }
+            public void tan()
+            {
+                Console.Write("tan(x): ");
+                double x = double.Parse(Console.ReadLine());
+                double y = Math.Sin(x);
+                Console.WriteLine(String.Format("tan({0}) = {1}", x, y));
+                Console.ReadLine();
+            }
+
         }
         static void Main(string[] args)
         {

@@ -1,0 +1,7 @@
+C:\Users\Hamza Arain\source\repos\LinearSearh\LinearSearh\bin\Debug\LinearSearh.exe.config
+C:\Users\Hamza Arain\source\repos\LinearSearh\LinearSearh\bin\Debug\LinearSearh.exe
+C:\Users\Hamza Arain\source\repos\LinearSearh\LinearSearh\bin\Debug\LinearSearh.pdb
+C:\Users\Hamza Arain\source\repos\LinearSearh\LinearSearh\obj\Debug\LinearSearh.csprojAssemblyReference.cache
+C:\Users\Hamza Arain\source\repos\LinearSearh\LinearSearh\obj\Debug\LinearSearh.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Arain\source\repos\LinearSearh\LinearSearh\obj\Debug\LinearSearh.exe
+C:\Users\Hamza Arain\source\repos\LinearSearh\LinearSearh\obj\Debug\LinearSearh.pdb
